@@ -35,7 +35,7 @@ QIMCommon是一套基于sqlite3.0框架的高性能的数据库组件
 我们建议你通过 [Cocoapods](https://cocoapods.org/) 来进行 `QIMDataBase` 的集成,在 `Podfile` 中加入以下内容:
 
 ```shell
-source 'https://github.com/qunarcorp/libqimkit-ios-cook.git'
+source 'https://github.com/startalkIM/libqimkit-ios-cook.git'
 pod 'QIMDataBase'
 ```
 
